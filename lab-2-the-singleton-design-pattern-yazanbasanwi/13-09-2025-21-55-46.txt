@@ -1,0 +1,10 @@
+INFO: A new order was created
+INFO: Order info:
+Order number: 421875912
+Date2025-09-13
+INFO: A new shipment was created
+INFO: Shipment info:
+Tracking number: 608124405
+NameAhmed
+Address: 248 NE. Pleasant St. Niceville, FL 32578
+Phone: 123-477-0001
